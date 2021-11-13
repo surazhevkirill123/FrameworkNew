@@ -1,3 +1,0 @@
-57 smallCars hgfds
-45 bigCars esffs
-34 dolls dsdsd

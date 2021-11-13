@@ -1,0 +1,7 @@
+Hardcore\page\AbstractPage.class
+Hardcore\page\TempEmailPage.class
+Hardcore\page\GoogleCloudMainPage.class
+Hardcore\driver\DriverSingleton.class
+Hardcore\test\GoogleCloudTest.class
+Hardcore\test\AbstractTest.class
+Hardcore\page\GoogleCloudPricingCalculatorPage.class
